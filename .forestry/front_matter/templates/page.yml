@@ -11,3 +11,5 @@ fields:
 - type: text
   name: sidebar_label
   label: sidebar_label
+pages:
+- docs/the-mdn-web-docs-project.md

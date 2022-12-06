@@ -1,7 +1,7 @@
 ---
 id: ''
 title: The MDN Web Docs project
-sidebar_label: Test00
+sidebar_label: ''
 
 ---
 # The MDN Web Docs project
